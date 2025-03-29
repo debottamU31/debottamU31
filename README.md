@@ -1,15 +1,17 @@
 # Hello, I'm Debottam Upadhyaya! 👋
 
-I'm a **Co-Founder & CTO** at [Indie91](https://indie91.store) and a **Lead Engineer** at MyImmune, with a proven track record of spearheading innovative engineering teams and delivering scalable, high-impact solutions. I thrive at the intersection of technology leadership, advanced system architecture, and cutting-edge machine learning. My passion lies in empowering teams, architecting robust platforms, and solving complex problems with elegant, user-centric designs.
+I'm a **Co-Founder & CTO** at [Nestafar](https://nestafar.com/) and a **Lead Engineer** at [MyImmune](https://www.myimmune.ai/), with a proven track record of spearheading innovative engineering teams and delivering scalable, high-impact solutions. I thrive at the intersection of technology leadership, advanced system architecture, and cutting-edge machine learning. My passion lies in empowering teams, architecting robust platforms, and solving complex problems with elegant, user-centric designs.
 
 ---
 
 ## 🚀 About Me
 
-- 🌍 **Based in**: Bangalore, India (with remote experience in Japan)
-- 💼 **Current Roles**: 
-  - Co-Founder & CTO @ Indie91 (E-commerce platform for Indian homegrown brands)
+- 🌍 **Based in**: Bangalore, India (with remote experience in Japan and Singapore)
+- 💼 **Current Roles**:
   - Lead Engineer @ MyImmune (Advanced ML pipelines for immune receptor analysis)
+  - Co-Founder & CTO @ Nestafar (Next Gen Hospitality OS)
+  - Ex-CTO Indie91 (Ecommerce platforms for GenZ)
+    
 - 🛠 **Experience**: 9+ years leading engineering teams and building scalable systems
 - 🎓 **Focus**: Team leadership, system architecture, machine learning, and front-end innovation
 - 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/debottamupadhyaya31/) | [Email](mailto:debottam.upadhyaya@gmail.com)
